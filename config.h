@@ -9,8 +9,8 @@
 
 /* ── appearance ──────────────────────────────────────────────── */
 
-static const char *font       = "Consolas";
-static int fontsize           = 14;
+static const char *font       = "Hack Nerd Font Mono";
+static int fontsize           = 16;
 
 /* window geometry */
 static int win_width          = 600;       /* popup width in pixels */
