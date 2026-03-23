@@ -9,7 +9,7 @@
 
 /* ── appearance ──────────────────────────────────────────────── */
 
-static const char *font       = "Hack Nerd Font Mono";
+static const char *font       = "JetBrainsMono NFM";
 static int fontsize           = 16;
 
 /* window geometry */
